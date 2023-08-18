@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1691782500 source:c:\users\diego\desktop\programacion ii\accesomaterias\ejerrepaso\main.cpp
+	<iostream>
+	"funciones.h"
+	<iostream>
+
+1691783579 source:c:\users\diego\desktop\programacion ii\accesomaterias\ejerrepaso\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1691783788 c:\users\diego\desktop\programacion ii\accesomaterias\ejerrepaso\funciones.h
+

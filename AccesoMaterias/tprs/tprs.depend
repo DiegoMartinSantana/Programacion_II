@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1691500159 source:c:\users\diego\desktop\programacion ii\accesomaterias\tprs\funcionescuerpo.cpp
+	<iostream>
+	"funcionescabecera.h"
+
+1691499919 c:\users\diego\desktop\programacion ii\accesomaterias\tprs\funcionescabecera.h
+
+1691500152 source:c:\users\diego\desktop\programacion ii\accesomaterias\tprs\main.cpp
+	<iostream>
+	<cstring>
+	"funcionescabecera.h"
+
