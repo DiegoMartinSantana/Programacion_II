@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1692459373 source:c:\users\diego\desktop\utn\programacion ii\clases\articulo\main.cpp
+	<iostream>
+	<cstring>
+	<Articulo.h>
+
+1692450019 source:c:\users\diego\desktop\utn\programacion ii\clases\articulo\src\articulo.cpp
+	"Articulo.h"
+	<cstring>
+
+1692449897 c:\users\diego\desktop\utn\programacion ii\clases\articulo\include\articulo.h
+	<cstring>
+
